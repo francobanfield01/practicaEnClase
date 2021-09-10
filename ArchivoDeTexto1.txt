@@ -1,3 +1,4 @@
+ESte archivo contiene las instrucciones para trabajar con la APP
 Esto es un archivo de texto, el numero 1 FRANCO ME BORRASTE TODO
 
-Esto es un archivo de texto, el numero 1CUALQUIER COSA 
+Quiero ver si se pisan los textos. Habra que probar, de paso pruebo de word-wrap ajaja a ver si funciona eso.
